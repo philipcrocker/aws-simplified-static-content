@@ -53,5 +53,4 @@ Thumbs.db
 secrets.auto.tfvars
 *.tfstate
 *.tfstate.*
-
-
+*.hcl
