@@ -1,7 +1,0 @@
-Leaky S3 Buckets are a massive, global problem that has existed for far too long, costing tens of billions each year, and, more importantly, leaves a trail of devastated lives in it's wake. The numbers are truly staggering, especially when you consider that every single one of these leaks were 100% preventable. 
-Nearly 1/2 of all data leaks contain PII, Personally Identifiable Information, which is the treasure trove for data brokers. A $200B industry all on it's own, data brokerage provides anyone and everyone with near real-time information about an individual's life. That's the type of information that can make life easier or take away your free will. Facebook\Cambridge Analytica ring a bell? Nevertheless, I think it's fair to say, our PII needs better safeguarding because, at the end of a leak when the dust settles, it's you and me, the consumers, who are hit the hardest. What makes it an exceptionally hard pill to shallow is that leak are caused by misconfigurations, which are 100% preventable in the first place. 
-
-The Solution
-Short answer, Get Well-Architected. 
-Start with no-public S3 policy. One way of meeting this policy is by configuring S3 webhosting using CloudFront with OAI. Here's a link to the Repo. but the design is simple as per diagram. 
-Ultimately, we want to give the message that becoming Well Architectured is not an overnight switch. Like any other framework, it is an adoption that takes time for best practices that reflect the WAF into place. 
